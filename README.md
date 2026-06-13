@@ -78,3 +78,13 @@ build a deeper understanding of the design and ultimately led to a successful bu
 
 ## 📄 License
 Personal hardware project — power electronics and circuit design practice.
+
+
+## 📷 Project Photos
+
+![Schematic](Screenshot2026-05-31001514.png)
+![Final Device](WhatsApp-Image-2026-05-24-at-8.56.37-PM.jpeg)
+![Final Device 2](WhatsApp-Image-2026-05-24-at-8.56.50PM.jpeg)
+![Breadboard](WhatsAppImage2026-05-04at4.38.12PM.jpeg)
+![Perfboard](WhatsAppImage2026-05-04at4.38.13PM.jpeg)
+![Testing](WhatsAppImage2026-05-31at12.08.13AM.jpeg)
